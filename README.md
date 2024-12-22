@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dewashish Singh
-- 👀 A passionate Web Developer.
-- 🌱 I’m currently working on Heart Beats.
+- 👀 A passionate Full Stack Developer.
+- 🌱 I’m currently working on Vitamin Deficiency Detection using Image Analysis.
 - 📫 How to reach me dewashishsinghkshatriya311@gmail.com
 
 <!---
